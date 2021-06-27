@@ -1,0 +1,80 @@
+::placeholder{
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-position: 35%;
+    background-size: 6%;
+    background-image:url("https://raw.githubusercontent.com/Kodluyoruz/taskforce/1947c2e96e625266f7302a553a973d5d7847cc31/bootstrap/odev2/instagramclone/assets/search-solid.svg");
+    background-repeat: no-repeat;
+    
+  }
+  
+  input.empty {
+      font-family: FontAwesome;
+      font-style: normal;
+      font-weight: normal;
+      text-decoration: inherit;
+      background-color: #FAFAFA;
+  }
+  
+  .postuserfont {
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    color: black;
+  }
+  
+  
+  .storyphoto {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+  }
+  
+  .storytext {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    color: black;
+    
+  }
+  
+  .rightpanellinks {
+    text-decoration: none;
+    color: lightgrey;
+  }
+  
+  .rightpanellinks:hover {
+    text-decoration: none;
+    color: lightgrey;
+  }
+  .navbar{
+      height: 54px;
+      background: white;
+  }
+  .logo{
+    margin-left: 192px;
+  }
+  .middlearea{
+    max-height: 200px !important;
+  }
+  #sticky-sidebar{
+  
+  position: sticky;
+  top: 60px;
+  padding: 5px;
+  border: none;
+  }
+  .rightpanel{
+    border: none;
+    background-color: white;
+  }
+  .back-color{
+    background-color: rgba(250,250,250,1);
+  }
+  .padding{
+    padding-left: 5px;
+  }
+  
+  
+  
